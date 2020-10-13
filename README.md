@@ -1,1 +1,1 @@
-Micronaut study on GraalVM native image using docker
+Micronaut study on GraalVM native image using docker following https://guides.micronaut.io/creating-your-first-micronaut-app/guide/index.html
